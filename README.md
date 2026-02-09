@@ -32,13 +32,13 @@ This project is designed for **research, academic, and educational purposes** an
 The following diagrams illustrate the complete **Audio-Visual Event Localization pipeline**, including feature extraction, attention-based fusion, and output prediction.
 
 ### Overall Audio-Visual Architecture
-![Overall Architecture](assets/architecture_overview.png)
+![Overall Architecture](architecture_overview.png)
 
 ### Multi-Modal Attention Fusion
-![Attention Fusion](assets/attention_fusion.png)
+![Attention Fusion](attention_fusion.png)
 
 ### Detailed Processing Pipeline
-![Detailed Pipeline](assets/pipeline_detailed.png)
+![Detailed Pipeline](pipeline_detailed.png)
 
 > The architecture integrates spatial, temporal, and cross-modal attention mechanisms to achieve robust and interpretable audio-visual event localization.
 
