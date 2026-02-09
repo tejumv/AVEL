@@ -35,10 +35,10 @@ The following diagrams illustrate the complete **Audio-Visual Event Localization
 ![Overall Architecture](architecture_overview.png)
 
 ### Multi-Modal Attention Fusion
-![Attention Fusion](fusion.png)
+![Attention Fusion](assets/fusion.png)
 
 ### Detailed Processing Pipeline
-![Detailed Pipeline](Deatiled Pipeline.png)
+![Detailed Pipeline](assets/Detailed Pipeline.png)
 
 > The architecture integrates spatial, temporal, and cross-modal attention mechanisms to achieve robust and interpretable audio-visual event localization.
 
